@@ -6,4 +6,4 @@ we had the exercise to make the pokedex work in php.
 Everything works except for the evolutions and the 4 arrows. 
 Use the input. Write a number or write a pokemon's name.
 
-I know still some stuff i need to figure out :)
+I know, there is still some stuff i need to figure out :)
